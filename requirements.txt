@@ -1,0 +1,3 @@
+# pin to legacy API — openai>=1.0 changed the ChatCompletion interface used in this project
+openai==0.28.0
+python-dotenv>=1.0.0
